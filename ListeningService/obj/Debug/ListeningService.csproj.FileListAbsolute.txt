@@ -1,8 +1,0 @@
-C:\Projects\ListeningService\ListeningService\bin\Debug\ListeningService.exe.config
-C:\Projects\ListeningService\ListeningService\bin\Debug\ListeningService.exe
-C:\Projects\ListeningService\ListeningService\bin\Debug\ListeningService.pdb
-C:\Projects\ListeningService\ListeningService\obj\Debug\ListeningService.exe
-C:\Projects\ListeningService\ListeningService\obj\Debug\ListeningService.pdb
-C:\Projects\ListeningService\ListeningService\obj\Debug\ListeningService.ProjectInstaller.resources
-C:\Projects\ListeningService\ListeningService\obj\Debug\ListeningService.csproj.GenerateResource.Cache
-C:\Projects\ListeningService\ListeningService\obj\Debug\ListeningService.csprojResolveAssemblyReference.cache
